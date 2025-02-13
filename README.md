@@ -10,5 +10,4 @@ Saya saat ini sedang mengikuti pelatihan di DBS Foundation dari Dicoding.<br>
 
 Kelas yang saya ambil dari pelatihan ini adalah Machine Learning.<br>
 
-Jika kamu tertarik untuk berkenal denganku, silahkan ikuti akun [Linkedin]
-(https://www.linkedin.com/in/riffa-bella-wahyu-s-075196243/)ku yaaa.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riffa-bella-wahyu-s-075196243/)ku ya.
