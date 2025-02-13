@@ -1,16 +1,14 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**riffabella/riffabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Riffa Bella Wahyu S**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa** di Universitas Ivet Semarang.<br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya mengambil program studi Sistem dan Teknologi Informasi.<br>
+
+Saya saat ini sedang mengikuti pelatihan di DBS Foundation dari Dicoding.<br>
+
+Kelas yang saya ambil dari pelatihan ini adalah Machine Learning.<br>
+
+Jika kamu tertarik untuk berkenal denganku, silahkan ikuti akun [Linkedin]
+(https://www.linkedin.com/in/riffa-bella-wahyu-s-075196243/)ku yaaa.
